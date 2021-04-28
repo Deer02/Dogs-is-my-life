@@ -6,9 +6,9 @@
   
   <html>
  <head>
-	<title>Меняем фон сайта с помощью HTML - Нубекс</title>
+	 
  </head>
- <body bgcolor="#fa8e47" text="#fff">
+ <body bgcolor="#red" text="#blak">
 	<p>Это пример текста белого цвета, заданного с помощью атрибута text тега body.</p>
  </body>
 </html>
