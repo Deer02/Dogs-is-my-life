@@ -45,9 +45,8 @@
       
    Компанию нюхачу Треппу в Книге рекордов Гиннесса составил таможенник Лео. Немецкая овчарка служила на таможне аэропорта 9 лет. За это время Лео задержал более 300 наркоторговцев.<p>
    <img src="https://github.com/Deer02/Dogs-is-my-life/blob/main/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B2%D1%87%D0%B0%D1%80%D0%BA%D0%B0.jpeg" alt="Фото Добермана" width="1156" height="777"></a>
-          <a href="photo-2.html"><img src="files/preview-2.jpg" alt="Фоточка Кекса" width="115" height="77"></a>
-          <a href="photo-3.html"><img src="files/preview-3.jpg" alt="Фоточка Кекса" width="115" height="77"></a>
-        </p>
+        
+   </p>
   </body>
 </html>
   </head>
