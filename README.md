@@ -59,4 +59,3 @@
   </body>
 </html>
 
-https://github.com/Deer02/Dogs-is-my-life.git
